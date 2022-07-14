@@ -52,4 +52,5 @@ let num = 1
 num = "1"
 num = [1, 2, 3]
 console.log(typeof (num))
+
 // 3. Dengan tipe dinamis datang tanggung jawab besar
